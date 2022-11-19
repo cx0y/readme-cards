@@ -37,6 +37,8 @@ here using `theme` & `hide_border` & `show_icons`
 
 ```
 
+[ [ALL THEMES](https://cx0y.github.io/readme-cards/pages/GithubStatCard.html) ]
+
 ---
 
 ## 2. Streak Stats Card
@@ -73,6 +75,10 @@ Here using `theme` & `hide_border`
 ```md
 ![](https://github-readme-streak-stats.herokuapp.com?user=YourUserName&theme=midnight-purple&hide_border=true)
 ```
+
+[ [ALL THEMES](https://cx0y.github.io/readme-cards/pages/StreakStatsCard.html) ]
+
+
 ---
 ## 3. Activity Graph Card
 
@@ -103,6 +109,10 @@ Here using `theme` & `hide_border` & `bg_color` & `line` & `color` & `custom_tit
 ```md
 ![](https://activity-graph.herokuapp.com/graph?username=YourUserName&theme=react-dark&hide_border=true&bg_color=000&line=33006F&color=808080&custom_title=cx0y&point=33006F7F)
 ```
+
+[ [ALL THEMES](https://cx0y.github.io/readme-cards/pages/ActivityGraphCard.html) ]
+
+
 ---
 
 ## 4. GitHub Profile Summary Stats Card
@@ -177,8 +187,11 @@ Here using `theme` & `no-bg` & `column`
 
 ```
 
+[ [ALL THEMES](https://cx0y.github.io/readme-cards/pages/GithubPofileTrophy.html) ]
+
+
 ---
-## 7. Readme Jokes card
+## 7. Readme Jokes Card
 ![](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue)
 
 > How to add ?
@@ -204,6 +217,9 @@ Here using `hideBorder` & `theme` & `qColor` & `aColor`
 ```
 ![](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 ```
+
+[ [ALL THEMES](https://cx0y.github.io/readme-cards/pages/ReadmeJokesCard.html) ]
+
 
 ---
 ## 8. Typing Svg Card
